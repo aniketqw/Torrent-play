@@ -1,0 +1,14 @@
+{
+    "name": "torrent-play",
+    "version": "1.0.0",
+    "description": "A bittorrent client in nodeJS",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Aniket Saxena",
+    "license": "ISC",
+    "dependencies": {
+        "package.json": "^2.0.1"
+    }
+}
